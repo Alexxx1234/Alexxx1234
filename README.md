@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alexxx1234
 - 👀 I’m interested in Quality Assurance 
-- 🌱 I’m currently learning JacaScript,Python, Java, HTML, C#, API testing with Postman, Java/Python webtesting with selenium, SQL, Jira.
 - 💞️ I’m looking to collaborate on any project in QA field.
 - 📫 How to reach me: pogosovalex@gmail.com
 
